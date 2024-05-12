@@ -35,6 +35,7 @@ app.use("/subdir", require("./routes/subdir"))
 //API Route
 app.use("/employees", require("./routes/api/employees"))
 app.use("/fillDB", require("./routes/api/statesAPI"))
+app.use("/states", require("./routes/api/statesAPI"))
 
 //Login and register Route
 app.use("/register", require("./routes/api/register"))
