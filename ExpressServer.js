@@ -30,17 +30,8 @@ app.use("/subdir",express.static(path.join(__dirname, "/public")));
 
 //Routes
 app.use("/", require("./routes/root"))
-app.use("/subdir", require("./routes/subdir"))
 
-//API Route
-app.use("/employees", require("./routes/api/employees"))
-app.use("/fillDB", require("./routes/api/statesAPI"))
 app.use("/states", require("./routes/api/statesAPI"))
-
-//Login and register Route
-app.use("/register", require("./routes/api/register"))
-app.use("/logIn", require("./routes/api/logIn"))
-
 
 // 404 route
 app.get("/*", (req, res)=>{

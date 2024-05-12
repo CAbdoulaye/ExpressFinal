@@ -342,3 +342,9 @@
 05-11-2024	08:12:52 	 3cbd3141-a922-4c97-b63a-d90a0046b2da 	 GET undefined /states/VA/nickname 
 05-11-2024	08:12:59 	 92d0096b-2aaa-4a93-a261-0043e455bd9d 	 GET undefined /states/VA/POPULATION 
 05-11-2024	08:13:04 	 e383d8cb-759f-46a6-8378-9baad90cdb39 	 GET undefined /states/VA/admission 
+05-11-2024	08:25:16 	 d1c8496d-1f65-4ebe-b659-1fc1a65b4641 	 GET undefined /states/VA/admission 
+05-11-2024	08:25:20 	 002c6041-4962-499c-ade8-a640029a5b35 	 GET undefined / 
+05-11-2024	08:25:29 	 30374a5a-84b4-4d63-8fa1-ce40ffa71521 	 GET undefined / 
+05-11-2024	08:25:36 	 31e21101-96ce-4176-b5b6-a260b0d1f0b2 	 GET undefined /states 
+05-11-2024	08:25:41 	 ab2469f5-6276-453a-80a6-64214cc238bd 	 GET undefined /states/KS 
+05-11-2024	08:25:45 	 33617944-a11c-4fb6-beef-49243dd3b2a4 	 GET undefined /states/KS/funfact 
