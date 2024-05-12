@@ -5,7 +5,6 @@ const path = require('path' )
 const port = process.env.port || 3000
 const { logger } = require('./middleware/logEvents')
 const cors = require("cors");
-const corsOptions = require("./config/corsOptions");
 const connectDB = require("./config/dbConfig");
 const mongoose = require("mongoose");
 
